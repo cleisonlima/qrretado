@@ -1,6 +1,9 @@
 # QRretado!
 
-O **QRretado!** é um aplicativo simples e funcional para **gerar QR Codes** de forma rápida e intuitiva. Ideal para transformar **links, textos ou qualquer informação** em QR Codes prontos para compartilhar ou salvar no seu computador. É divertido, fácil de usar e inspirado na cultura nordestina, transmitindo energia e autenticidade.  
+O **QRretado!** é um aplicativo simples e funcional para **gerar QR Codes** de forma rápida e intuitiva.  
+Ele é ideal para transformar **links, textos ou qualquer informação** em QR Codes prontos para **compartilhar ou salvar** no computador.  
+O app é divertido, fácil de usar e acessível para todos.
+ 
 
 ![Imagem do QRretado!](https://github.com/cleisonlima/qrretado/blob/main/qrretado2.png?raw=true)  
 
